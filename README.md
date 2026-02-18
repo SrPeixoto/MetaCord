@@ -37,7 +37,7 @@ Este painel atua como a ponte entre a inteligência artificial do bot e a gestã
 
 Acesse agora o painel oficial e comece a gerenciar seu servidor:
 
-👉 **[metatechbot.online](http://dashboard.metatechbot.online/)**
+👉 **[Dashboard Discord](http://dashboard.metatechbot.online/)**
 
 ---
 
