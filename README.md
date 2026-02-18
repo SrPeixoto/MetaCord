@@ -1,7 +1,7 @@
 # 🤖 MetaTech — Discord Dashboard
 > **Inteligência para transformar seu atendimento e comunidade.**
 
-![Dashboard Preview](https://metatechbot.online/assets/preview.png) ---
+![Dashboard Preview](https://i.postimg.cc/HkHZnsg9/Captura-de-tela-2026-02-18-191304.png) ---
 
 ## 🎯 O que é o MetaTech Dashboard?
 
@@ -37,7 +37,7 @@ Este painel atua como a ponte entre a inteligência artificial do bot e a gestã
 
 Acesse agora o painel oficial e comece a gerenciar seu servidor:
 
-👉 **[metatechbot.online](https://metatechbot.online)**
+👉 **[metatechbot.online](http://dashboard.metatechbot.online/)**
 
 ---
 
