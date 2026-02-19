@@ -1,11 +1,11 @@
-# 🤖 MetaTech — Discord Dashboard
+# 🤖 MetaCord — Discord Dashboard
 > **Inteligência para transformar seu atendimento e comunidade.**
 
 ![Dashboard Preview](https://i.postimg.cc/HkHZnsg9/Captura-de-tela-2026-02-18-191304.png) ---
 
-## 🎯 O que é o MetaTech Dashboard?
+## 🎯 O que é o MetaCord?
 
-O **MetaTech Dashboard** é a central de comando definitiva para o seu bot do Discord. Desenvolvido para oferecer **controle total e dados estratégicos**, ele transforma a gestão de servidores em uma experiência visual, intuitiva e simplificada.
+O **MetaCord** é a central de comando definitiva para o seu bot do Discord. Desenvolvido para oferecer **controle total e dados estratégicos**, ele transforma a gestão de servidores em uma experiência visual, intuitiva e simplificada.
 
 Este painel atua como a ponte entre a inteligência artificial do bot e a gestão humana, permitindo que administradores tomem decisões baseadas em dados reais.
 
